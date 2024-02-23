@@ -10,16 +10,12 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
 <p align="justify">Estoy emocionada por aplicar mis habilidades y conocimientos en un entorno colaborativo, donde pueda contribuir de manera significativa y aprender de mis compañeros, pues una de las cosas que mas me gusta de mi carrera, es poder sorprenderme cada día con cada cosa nueva que puedo aprender. 
   ✨</p>
 
-<br>
-
 # Currently learning 💻: 	
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,js,py&perline=14" />
   </a>
 </p>
-
-<br>
 
 # Technologies worked 📚: 
 <p>
@@ -29,16 +25,12 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
   </a>
 </p>
 
-<br>
-
 <p>
 <h3>Operating Systems and Database</h3> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,mysql,mongodb&perline=14" />
   </a>
 </p>
-
-<br>
 
 <p>
 <h3>Frameworks</h3> 
@@ -47,8 +39,6 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
   </a>
 </p>
 
-<br>
-
 <p>
 <h3>Tools</h3> 
   <a href="https://skillicons.dev">
@@ -56,16 +46,12 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
   </a>
 </p>
 
-<br>
-
 <p>
 <h3>IDE</h3> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,eclipse,vscode,visualstudio,anaconda&perline=14" />
   </a>
 </p>
-
-<br>
 
 <p> 
   <div align="center">Visitor count</div>
@@ -75,6 +61,7 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
 </p>
 
 <br>
+
 <p> 
   <div align="center">Otros</div>
   <div align="center">
