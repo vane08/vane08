@@ -1,6 +1,6 @@
 # About me🙋:
 
-<p align="justify">¡Hello World ! 👋 Mi nombre es Vanessa Cruz Huitrón, soy una entusiasta estudiante del mundo de la tecnología, actualmente con 21 años cursando mi último semestre de la carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec (TESJI).</p>
+<p align="justify">¡Hello World ! 👋 Mi nombre es Vanessa Cruz Huitrón, soy una entusiasta estudiante del mundo de la tecnología, actualmente con 21 años me encuentro cursando mi último semestre de la carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec (TESJI).</p>
 
 <p align="justify">Soy una persona apasionada por el orden y la responsabilidad, valores que considero fundamentales para obtener resultados sobresalientes en cualquier tarea que emprenda.
 Además, valoro enormemente la importancia del trabajo en equipo, ya que creo firmemente que la colaboración y la comunicación efectiva son pilares fundamentales para alcanzar metas ambiciosas y superar desafíos.</p>
