@@ -13,7 +13,7 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
 <br>
 
 # Currently learning 💻: 	
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,js,py&perline=14" />
   </a>
@@ -22,8 +22,8 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
 <br>
 
 # Technologies worked 📚: 
-<p align="center">
-<h3 align="center">Programming languages</h3> 
+<p>
+<h3>Programming languages</h3> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,cs,cpp,kotlin,php,py,octave&perline=14" />
   </a>
@@ -31,8 +31,8 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
 
 <br>
 
-<p align="center">
-<h3 align="center">Operating Systems and Database</h3> 
+<p>
+<h3>Operating Systems and Database</h3> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,mysql,mongodb&perline=14" />
   </a>
@@ -40,8 +40,8 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
 
 <br>
 
-<p align="center">
-<h3 align="center">Frameworks</h3> 
+<p>
+<h3>Frameworks</h3> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,express,angular&perline=14" />
   </a>
@@ -49,8 +49,8 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
 
 <br>
 
-<p align="center">
-<h3 align="center">Tools</h3> 
+<p>
+<h3>Tools</h3> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,firebase,github,flask,postman,html&perline=14" />
   </a>
@@ -58,8 +58,8 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
 
 <br>
 
-<p align="center">
-<h3 align="center">IDE</h3> 
+<p>
+<h3>IDE</h3> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,arduino,eclipse,vscode,visualstudio,anaconda&perline=14" />
   </a>
@@ -68,8 +68,8 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
 <br>
 
 <p> 
-  <div align="start">Visitor count</div>
-  <div align="start">
+  <div align="center">Visitor count</div>
+  <div align="center">
     <img src="https://profile-counter.glitch.me/vane08/count.svg"/>
   </div> 
 </p>
