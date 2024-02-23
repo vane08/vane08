@@ -75,6 +75,10 @@ Además, valoro enormemente la importancia del trabajo en equipo, ya que creo fi
 </p>
 
 <br>
-
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vane08&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vane08&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
+<p> 
+  <div align="center">Otros</div>
+  <div align="center">
+  ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=vane08&show_icons=true&count_private=true&theme=great-gatsby) </br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vane08&theme=great-gatsby&layout=compact)](https://github.com/HridoyHazard)
+  </div> 
+</p>
