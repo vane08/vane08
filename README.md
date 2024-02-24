@@ -1,5 +1,5 @@
 # About me🙋:
-### Frontend | Mobile | Web | Linux(Ubuntu) 💻
+### Frontend | Mobile | Web | Linux(Ubuntu)
 
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100085922498240&mibextid=ZbWKwL)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/08_vch?igsh=MWlhd253NGRibXQ2bg==)
