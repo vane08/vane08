@@ -3,7 +3,6 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100085922498240&mibextid=ZbWKwL)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/08_vch?utm_source=qr&igsh=MWlhd253NGRibXQ2bg==)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/vanessa-cruz-huitron-a18037227)
 [<img src="https://img.shields.io/github/followers/vane08?style=social" height="22" title="Follow me on GitHub" />](https://github.com/vane08/)
 
 <p align="justify">¡Hello World ! 👋 Mi nombre es Vanessa Cruz Huitrón, soy una entusiasta estudiante del mundo de la tecnología, actualmente con 21 años me encuentro cursando mi último semestre de la carrera de Ingeniería en Sistemas Computacionales en el Tecnológico de Estudios Superiores de Jilotepec (TESJI).</p>
